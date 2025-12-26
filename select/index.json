@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ウルフ",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2025-12-26T14:27:23.330144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハングリー・ライク・ザ・ウルフ",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/01_ハングリー・ライク・ザ・ウルフ_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウルフ",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_ウルフ_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウルフ・ゴッド",
+      "artist": "Grand Magus",
+      "has_synced": true,
+      "path": "select/03_ウルフ・ゴッド_Grand_Magus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wolf Unchained (ウルフ・アンチェインド(解き放たれたオオカミ))",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/04_Wolf_Unchained_(ウルフ・アンチェインド(解き放たれたオオカミ))_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウルフ・ハリケーン",
+      "artist": "古谷徹",
+      "has_synced": true,
+      "path": "select/05_ウルフ・ハリケーン_古谷徹.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Wolf at the Door. (It Girl. Rag Doll.) = ア・ウルフ・アット・ザ・ドアー （イット・ガール。 ラグ・ドール）",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/06_A_Wolf_at_the_Door._(It_Girl._Rag_Doll.)_=_ア・ウルフ・アット・ザ・ドアー_(イット・ガール。_ラグ・ドール)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Wolf at the Door. (It Girl. Rag Doll.) = ア・ウルフ・アット・ザ・ドアー (イット・ガール。 ラグ・ドール)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_A_Wolf_at_the_Door._(It_Girl._Rag_Doll.)_=_ア・ウルフ・アット・ザ・ドアー_(イット・ガール。_ラグ・ドール)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ウルフ",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_ウルフ_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウルフ",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/09_ウルフ_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wolf Unchained (ウルフ.アンチェイント(解き放たれたオオカミ))",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/10_Wolf_Unchained_(ウルフ.アンチェイント(解き放たれたオオカミ))_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ウルフ",
+      "artist": "ゴスペラーズ",
+      "has_synced": false,
+      "path": "select/11_ウルフ_ゴスペラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウルフ",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_ウルフ_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
